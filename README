@@ -1,0 +1,6 @@
+The change_grade module accepts three parameters:
+    1. A student string representing a student formatted as: '<ID>,<last_name>,<first_name>,<grade>' where ID is an alphanumeric string, last_name and first_name is an alphabetical string, and grade is a number.
+    2. A target string
+    3. A replacement number
+
+If the target string is found in any of the four fields in the student string (the string must be fully contained in the field; it cannot span across multiple fields), then the grade field in that student string is changed to the given number in the parameter. Otherwise, the student string is left unchanged. The final student string is returned.
