@@ -1,0 +1,7 @@
+Hello Patrick,
+
+I looked over your change_grade.py code.  Looking good my friend.  Very well written.  If you don't mind me saying, I could use some line comments just to give the reader an easier time.
+
+I like the way you separated your code into a function and main section.  Also this simple and small program illustrates the Unix philosophy of performing a single task efficiently.
+
+- Justin Boblitt
